@@ -151,6 +151,7 @@ paginator.parseArguments_ = function(args) {
     autoPaginate: autoPaginate,
     maxApiCalls: maxApiCalls,
     maxResults: maxResults,
+    maximumBillingTier: 2,
     callback: callback
   };
 };
